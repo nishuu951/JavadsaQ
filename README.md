@@ -1,2 +1,2 @@
 # JavadsaQ
-According to me these type of questions are important for interview .
+I have started learning DSA ,and these are some practice questions which i have solved
